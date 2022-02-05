@@ -1,14 +1,35 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "categories": [
+    { "id": 1, "title": "Politics" },
+    { "id": 2, "title": "Movie Clips" },
+    { "id": 3, "title": "Surroundings" },
+    { "id": 4, "title": "Memes" },
+    { "id": 5, "title": "Comedy" },
+    { "id": 6, "title": "Issues" },
+    { "id": 7, "title": "Drama" },
+    { "id": 8, "title": "Content" },
+    { "id": 9, "title": "Acting" },
+    { "id": 10, "title": "Technology" },
+    { "id": 11, "title": "Motivation" },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
+      { "id": 3, "body": "some comment", "postId": 1 }
+  { "id": 4, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"
   }
 }
+
+
+
+
+
+
+
+
+
+
+
